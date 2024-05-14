@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/randomjoke-API.git"
   },
   "keywords": [
-    "random joke"," random joke api"," random joke tool"," random joke software"," random joke service"," random joke library"," random joke sdk"," random joke code"," random joke script"," random joke program"," random joke application"," random joke app"," random joke utility"," random joke helper"," random joke helper tool"," random joke helper software"," random joke helper service"," random joke helper library"," random joke helper sdk"," random joke helper code"," random joke helper script"," random joke helper program"," random joke helper application"," random joke helper app"," random joke helper tool"," random joke helper utility"," random joke helper"
+    "random joke","random joke api","random joke tool","random joke software","random joke service"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
