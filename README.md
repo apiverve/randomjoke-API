@@ -69,10 +69,11 @@ api.execute(function (error, data) {
   "status": "ok",
   "error": null,
   "data": {
-    "score": 1,
-    "setup": "[NSFW] A glass of wine a day increases the chances of a stroke...",
-    "punchline": "But if you let her have the whole bottle, she might suck it as well!"
-  }
+    "score": 3,
+    "setup": "What do Fort McMurray and a 1998 Pontiac Sunfire have in common?",
+    "punchline": "Both are full of white trash and smell like burning oil."
+  },
+  "code": 200
 }
 ```
 
